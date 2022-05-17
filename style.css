@@ -1,0 +1,39 @@
+body{
+    background-color:green;
+    color:black;
+    margin:0;
+}
+
+header
+{
+    background: white;
+    color:#333;
+    width:100px;
+    margin:100px;
+    padding:20px;
+    border:20px ridge yellow;
+    border-bottom-color:red;
+}
+main{
+    background:white;
+    color:#333;
+    width:250px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+.columns
+{
+ display:flex;
+
+}
+.column1
+{
+ margin:0 10px;
+ border:2px solid green;
+}
+.column2
+{
+ margin:0 10px;
+ border:2px solid green;
+}
